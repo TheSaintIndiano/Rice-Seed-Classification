@@ -9,7 +9,7 @@ Broken Rice Seed ![2rice](https://github.com/totti0223/deep_learning_for_biologi
 
 
 # Specific Objectives
-Objectives of `Rice Seed Classification` is to build classifiers in different ways. One can see how CNN will extract features themself rather manually in other classifiers in the notebook. The following methods/classifiers are used.
+Objectives of `Rice Seed Classification` is to build classifiers in different ways. One can see how CNN will extract features themself rather manually. The following methods/classifiers are used.
 
 1. Manual Classsification by thresholding
 2. Support Vector Machine based Classification
